@@ -1,0 +1,9 @@
+name: MobMoney
+main: me.toastedturtle.mobmoney.MobMoney
+version: 0.3.1
+author: toastedturtle
+description: Reward players for killing mobs!
+commands:
+  mobmoney:
+    description: Main command.
+    aliases: [mm]

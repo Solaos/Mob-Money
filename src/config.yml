@@ -1,0 +1,470 @@
+#############
+# MOB MONEY
+# %reward% changes to however much money the player earns for killing the mob - if you want to take money, write, for example: -5 (to take $5)
+# %mob% changes to the mob name
+# %player% changes to the player name
+# For commands, write the command as (example): "/say %player% killed %mob% for %reward%!"
+# For min and max amount of money, the default 'money:' var will override them, so set the 'money:' variable to 0 if you want there to be a random amount of money
+# If you wish the player to receive no money, set all three money variables to 0.
+# !!! YOUR VERSION OF MINECRAFT MAY NOT HAVE ALL THE MOBS IN THE CONFIG, HOWEVER PLEASE DO NOT REMOVE THE MOBS FROM THE CONFIG !!!
+#############
+
+prefix: "&c[Mob Money] "
+rewardMessage: "&aYou have been rewarded with &b$%reward% &afor killing a &b%mob%!"
+punishedMessage: "&cYou have lost &f$%reward% &cfor killing a &f%mob%!"
+
+BAT:
+  name: "Bat"
+  min-money: 0
+  money: 0
+  max-money: 10
+  commands:
+    - 
+BEE:
+  name: "Bee"
+  min-money: 0
+  money: 0
+  max-money: 10
+  commands:
+    - 
+BLAZE:
+  name: "Blaze"
+  min-money: 0
+  money: 0
+  max-money: 10
+  commands:
+    - 
+CAT:
+  name: "Cat"
+  min-money: 0
+  money: 0
+  max-money: 10
+  commands:
+    - 
+CAVE_SPIDER:
+  name: "Cave Spider"
+  min-money: 0
+  money: 0
+  max-money: 10
+  commands:
+    - 
+CHICKEN:
+  name: "Chicken"
+  min-money: 0
+  money: 0
+  max-money: 10
+  commands:
+    - 
+COD:
+  name: "Cod"
+  min-money: 0
+  money: 0
+  max-money: 10
+  commands:
+    - 
+COW:
+  name: "Cow"
+  min-money: 0
+  money: 0
+  max-money: 10
+  commands:
+    - 
+CREEPER:
+  name: "Creeper"
+  min-money: 0
+  money: 0
+  max-money: 10
+  commands:
+    - 
+DOLPHIN:
+  name: "Dolphin"
+  min-money: 0
+  money: 0
+  max-money: 10
+  commands:
+    - 
+DONKEY:
+  name: "Donkey"
+  min-money: 0
+  money: 0
+  max-money: 10
+  commands:
+    - 
+DROWNED:
+  name: "Drowned"
+  min-money: 0
+  money: 0
+  max-money: 10
+  commands:
+    - 
+ELDER_GUARDIAN:
+  name: "Elder Guardian"
+  min-money: 0
+  money: 0
+  max-money: 10
+  commands:
+    - 
+ENDER_DRAGON:
+  name: "Ender Dragon"
+  min-money: 0
+  money: 0
+  max-money: 10
+  commands:
+    - 
+ENDERMAN:
+  name: "Enderman"
+  min-money: 0
+  money: 0
+  max-money: 10
+  commands:
+    - 
+ENDERMITE:
+  name: "Endermite"
+  min-money: 0
+  money: 0
+  max-money: 10
+  commands:
+    - 
+EVOKER:
+  name: "Evoker"
+  min-money: 0
+  money: 0
+  max-money: 10
+  commands:
+    - 
+FOX:
+  name: "Fox"
+  min-money: 0
+  money: 0
+  max-money: 10
+  commands:
+    - 
+GHAST:
+  name: "Ghast"
+  min-money: 0
+  money: 0
+  max-money: 10
+  commands:
+    - 
+GIANT:
+  name: "Giant"
+  min-money: 0
+  money: 0
+  max-money: 10
+  commands:
+    - 
+GUARDIAN:
+  name: "Guardian"
+  min-money: 0
+  money: 0
+  max-money: 10
+  commands:
+    - 
+HORSE:
+  name:
+  min-money: 0
+  money: 0
+  max-money: 10
+  commands:
+    - 
+HUSK:
+  name: "Husk"
+  min-money: 0
+  money: 0
+  max-money: 10
+  commands:
+    - 
+ILLUSIONER:
+  name: "Illusioner"
+  min-money: 0
+  money: 0
+  max-money: 10
+  commands:
+    - 
+IRON_GOLEM:
+  name: "Iron Golem"
+  min-money: 0
+  money: 0
+  max-money: 10
+  commands:
+    - 
+LLAMA:
+  name: "Llama"
+  min-money: 0
+  money: 0
+  max-money: 10
+  commands:
+    - 
+MAGMA_CUBE:
+  name: "Magma Cube"
+  min-money: 0
+  money: 0
+  max-money: 10
+  commands:
+    - 
+MULE:
+  name: "Mule"
+  min-money: 0
+  money: 0
+  max-money: 10
+  commands:
+    - 
+MUSHROOM_COW:
+  name: "Mushroom Cow"
+  min-money: 0
+  money: 0
+  max-money: 10
+  commands:
+    - 
+OCELOT:
+  name: "Ocelot"
+  min-money: 0
+  money: 0
+  max-money: 10
+  commands:
+    - 
+PANDA:
+  name: "Panda"
+  min-money: 0
+  money: 0
+  max-money: 10
+  commands:
+    - 
+PARROT:
+  name: "Parrot"
+  min-money: 0
+  money: 0
+  max-money: 10
+  commands:
+    - 
+PHANTOM:
+  name: "Phantom"
+  min-money: 0
+  money: 0
+  max-money: 10
+  commands:
+    - 
+PIG:
+  name: "Pig"
+  min-money: 0
+  money: 0
+  max-money: 10
+  commands:
+    - 
+PIG_ZOMBIE:
+  name: "Zombie Pigman"
+  min-money: 0
+  money: 0
+  max-money: 10
+  commands:
+    - 
+PILLAGER:
+  name: "Pillager"
+  min-money: 0
+  money: 0
+  max-money: 10
+  commands:
+    - 
+POLAR_BEAR:
+  name: "Polar Bear"
+  min-money: 0
+  money: 0
+  max-money: 10
+  commands:
+    - 
+PUFFERFISH:
+  name: "Pufferfish"
+  min-money: 0
+  money: 0
+  max-money: 10
+  commands:
+    - 
+RABBIT:
+  name: "Rabbit"
+  min-money: 0
+  money: 0
+  max-money: 10
+  commands:
+    - 
+RAVAGER:
+  name: "Ravager"
+  min-money: 0
+  money: 0
+  max-money: 10
+  commands:
+    - 
+SALMON:
+  name: "Salmon"
+  min-money: 0
+  money: 0
+  max-money: 10
+  commands:
+    - 
+SHEEP:
+  name: "Sheep"
+  min-money: 0
+  money: 0
+  max-money: 10
+  commands:
+    - 
+SHULKER:
+  name: "Shulker"
+  min-money: 0
+  money: 0
+  max-money: 10
+  commands:
+    - 
+SILVERFISH:
+  name: "Silverfish"
+  min-money: 0
+  money: 0
+  max-money: 10
+  commands:
+    - 
+SKELETON:
+  name: "Skeleton"
+  min-money: 0
+  money: 0
+  max-money: 10
+  commands:
+    - 
+SKELETON_HORSE:
+  name: "Skeleton Horse"
+  min-money: 0
+  money: 0
+  max-money: 10
+  commands:
+    - 
+SLIME:
+  name: "Slime"
+  min-money: 0
+  money: 0
+  max-money: 10
+  commands:
+    - 
+SNOWMAN:
+  name: "Snowman"
+  min-money: 0
+  money: 0
+  max-money: 10
+  commands:
+    - 
+SPIDER:
+  name: "Spider"
+  min-money: 0
+  money: 0
+  max-money: 10
+  commands:
+    - 
+SQUID:
+  name: "Squid"
+  min-money: 0
+  money: 0
+  max-money: 10
+  commands:
+    - 
+STRAY:
+  name: "Stray"
+  min-money: 0
+  money: 0
+  max-money: 10
+  commands:
+    - 
+TRADER_LLAMA:
+  name: "Trader's Llama"
+  min-money: 0
+  money: 0
+  max-money: 10
+  commands:
+    - 
+TROPICAL_FISH:
+  name: "Tropical Fish"
+  min-money: 0
+  money: 0
+  max-money: 10
+  commands:
+    - 
+TURTLE:
+  name: "Turtle"
+  min-money: 0
+  money: 0
+  max-money: 10
+  commands:
+    - 
+VEX:
+  name: "Vex"
+  min-money: 0
+  money: 0
+  max-money: 10
+  commands:
+    - 
+VILLAGER:
+  name: "Villager"
+  min-money: 0
+  money: 0
+  max-money: 10
+  commands:
+    - 
+VINDICATOR:
+  name: "Vindicator"
+  min-money: 0
+  money: 0
+  max-money: 10
+  commands:
+    - 
+WANDERING_TRADER:
+  name: "Wandering Trader"
+  min-money: 0
+  money: 0
+  max-money: 10
+  commands:
+    - 
+WITCH:
+  name: "Witch"
+  min-money: 0
+  money: 0
+  max-money: 10
+  commands:
+    - 
+WITHER:
+  name: "Wither"
+  min-money: 0
+  money: 0
+  max-money: 10
+  commands:
+    - 
+WITHER_SKELETON:
+  name: "Wither Skeleton"
+  min-money: 0
+  money: 0
+  max-money: 10
+  commands:
+    - 
+WOLF:
+  name: "Wolf"
+  min-money: 0
+  money: 0
+  max-money: 10
+  commands:
+    - 
+ZOMBIE:
+  name: "Zombie"
+  min-money: 0
+  money: 0
+  max-money: 10
+  commands:
+    - 
+ZOMBIE_HORSE:
+  name: "Zombie Horse"
+  min-money: 0
+  money: 0
+  max-money: 10
+  commands:
+    - 
+ZOMBIE_VILLAGER:
+  name: "Zombie Villager"
+  min-money: 0
+  money: 0
+  max-money: 10
+  commands:
+    - 
